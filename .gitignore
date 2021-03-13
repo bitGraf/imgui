@@ -16,6 +16,8 @@ examples/*/x64/*
 ## Build folders
 bin
 bin-int
+*.vcxproj
+*.vcxproj.filters
 
 ## Visual Studio artifacts
 .vs
